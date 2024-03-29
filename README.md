@@ -1,4 +1,1 @@
-# goit-ds-hw-02-2
-# goit-ds-hw-02-2
-# goit-ds-hw-02-2
-# goit-ds-hw-02-2
+A simple program that demonstrates working with a MongoDB database using the PyMongo library. The program implements basic CRUD operations through the command line.
